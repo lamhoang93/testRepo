@@ -1,4 +1,4 @@
-Lưu, thay đổi dữ liệu
+﻿Lưu, thay đổi dữ liệu
 localStorage.setItem(name, data)
 ---------
 Kiểm tra dữ liệu đã tồn tại hay chưa
@@ -6,3 +6,4 @@ localStorage.getItem(name) == null
 ----------
 Xóa dữ liệu
 localStorage.removeItem(name)
+dddddddddddddd
